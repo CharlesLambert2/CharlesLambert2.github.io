@@ -13,9 +13,9 @@ project_entries:
     url: /projet-jacobi.html
     desc: Méthode de calcul des Greeks et de hedging sous le modèle de Jacobi
 
-  - title: Résolution numérique de B&S
+  - title: Résolution numérique de B&S (french)
     url: /Resolution_B&S.html
-    desc: Résolution numérique de Black-Scholes par méthode des différences finies en C++ (french)
+    desc: Résolution numérique de Black-Scholes par méthode des différences finies en C++
 
   - title: Project 3
     url: overview-post
