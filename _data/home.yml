@@ -10,8 +10,8 @@ navbar_entries:
 
 project_entries:
   - title: Calculs des Greeks sous le modèle de Jacobi
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    url: /projet-jacobi.html
+    desc: Méthode de calcul des Greeks et de hedging sous le modèle de Jacobi
 
   - title: Project 2
     url: overview-post
