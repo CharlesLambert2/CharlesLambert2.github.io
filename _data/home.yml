@@ -9,7 +9,7 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Calculs des Greeks sous le modèle de Jacobi
+  - title: Calculs des Greeks sous le modèle de Jacobi (french)
     url: /projet-jacobi.html
     desc: Méthode de calcul des Greeks et de hedging sous le modèle de Jacobi
 
